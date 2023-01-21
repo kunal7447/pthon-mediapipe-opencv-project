@@ -33,3 +33,7 @@ mediapipe
 numpy 
 
 googleplaces
+
+command to install libraries -->
+
+pip install (library name)
